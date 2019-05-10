@@ -19,6 +19,8 @@
 		- При нажатии кнопки выведет уведомление Сохранено
 	3. testing.is_very-good@bsu.by
 		- При нажатии кнопки выведет уведомление Сохранено
+	4. ElhcZykWRgyxldBJLpuloTqGxVynWwxModjKDxQNYSQGjoNFxF@bsu.by
+	(50 символов)- При нажатии кнопки выведет уведомление Сохранено
 ### негативные тесты
 
 	1. tester228@bsu.by 
