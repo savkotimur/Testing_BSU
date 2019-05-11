@@ -48,7 +48,12 @@
 		- При нажатии кнопки выведет уведомление Ошибка
 	11. WgnYLBmhEWieOgxrNkbbOxeROtnGLjsgnJymdlbsPKutIhmbSFG@bsu.by
 	(51 символ) - При нажатии кнопки выведет уведомление Ошибка
-		
-		
-		
+	12. MOJVYHIuDTMOJzZrKKPDXSyyfKxolxEPkJxTvEbvMvgTsudoxsJGodpRAcLpHGQoxURcNcvPiaICckAbLohNhViRFtlFdWcvyPHkaxRxDPaBVATibzgoRWRKCvtuVdIlEIjkasDWYeGygeBnBqzNhcznNdrcNyyQUShLmUvxEDtIzhJvqmEHLDnOruugJbjpwTBdEQMCiCTRbMknGayCuLBjbPHEmAKZRRLIcZkZZApSPgXsxYZKGWPOBwtSMHrw@bsu.by
+	(257 символов) - При нажатии кнопки выведет уведомление Ошибка
+	13. "'`|/\,;:&<>^*?«»()@bsu.by
+		- При нажатии кнопки выведет уведомление Ошибка
+	13. "[|]'~<!--@/*$%^&#*/()?>,.*/\@bsu.by
+		- При нажатии кнопки выведет уведомление Ошибка
+	13. àáâãäåçèéêëìíîðñòôõöö@bsu.by
+		- При нажатии кнопки выведет уведомление Ошибка
 		
